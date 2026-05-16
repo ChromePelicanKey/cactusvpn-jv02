@@ -1,4 +1,4 @@
-
+Trust.Zone ultimate Client: WireGuard-support & custom-configurations is the best Trust.Zone client, featuring WireGuard-support and custom-configurations. Secure, fast, and
 
 
 
